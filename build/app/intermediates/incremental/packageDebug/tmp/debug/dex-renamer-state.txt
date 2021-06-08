@@ -1,0 +1,4 @@
+#Wed Apr 07 20:15:27 ECT 2021
+base.0=/home/renepb/Documentos/FLUTTER/peliculas/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
